@@ -380,8 +380,8 @@ creditworthiness_score
 
 ```bash
 # Clone repository
-git clone https://github.com/YourUsername/datatour-2025-insightx-divas.git
-cd datatour-2025-insightx-divas
+git clone https://[https://github.com/DanielleFotsi/payment-default-prediction.git]
+cd payment-default-prediction
 
 # Install dependencies
 pip install -r requirements.txt
@@ -408,7 +408,7 @@ joblib>=1.3.0
 ### Running the Pipeline
 
 ```bash
-jupyter notebook Solution.ipynb
+jupyter notebook Payment_Default_prediction.ipynb
 ```
 
 **Notebook Sections**:
