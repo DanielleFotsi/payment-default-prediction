@@ -443,9 +443,9 @@ probabilities = model.predict_proba(X_test)[:, 1]
 ```
 .
 ├── Payment_Default_ Prediction.ipynb                  # Complete pipeline
-├── model_lgbm_dart_final.pkl      # Trained model (45MB)
+├── model_lgbm_dart_final.pkl      # Trained model (45MB) in a folder called "Soumission" link[https://drive.google.com/drive/folders/1AxImyNtHX5X0p_zusvsUAbWsb-Yxb_ul?usp=drive_link]
 ├── README.md                       # This file
-├── data/                           # link[]
+├── data/                           # link[https://drive.google.com/drive/folders/1gTa4g4PoGoCW1We_2BIFmuzJOF9LpUNB?usp=drive_link]
 │   ├── train.parquet
 │   ├── test.parquet
 │   └── submission.parquet
@@ -613,6 +613,8 @@ Top teams used same algorithms. Better inputs.
 We're not discouraged. We're motivated. We have a roadmap.
 
 ---
+
+**Note** : The implementation notebook is written in French.
 
 **⭐ Star this repository if you found our journey helpful!**
 
